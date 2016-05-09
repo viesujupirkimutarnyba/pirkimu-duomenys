@@ -1,0 +1,1 @@
+# pirkimu-duomenys
