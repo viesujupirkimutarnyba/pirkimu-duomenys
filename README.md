@@ -1,1 +1,3 @@
-# pirkimu-duomenys
+# Pirkimų duomenys
+
+Automatiškai atnaujinami!
