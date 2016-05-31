@@ -12030,7 +12030,7 @@
 1020445753	5	151536	"Vida Monkienė"	0	2016-05-26 11:28:52.980	NULL	2016-05-26 11:28:52.980	NULL	N	"vida.monkiene@nvsc.lt"	NULL
 1020445754	5	151537	"Vygandas Aliulis"	0	2016-05-26 11:48:22.017	NULL	2016-05-26 11:48:22.017	NULL	N	"vygandas.aliulis@nvsc.lt"	NULL
 1020445755	5	151538	"Aldona Miglinaitė"	0	2016-05-26 11:52:47.990	NULL	2016-05-26 11:52:47.990	NULL	N	"aldona.miglinaite@nvsc.lt"	NULL
-1020445756	5	151539	"Giedrė Jasulaitytė"	0	2016-05-26 12:04:00.633	NULL	2016-05-26 12:04:00.633	NULL	N	"giedre.jasulaityte@vv.lt"	NULL
+1020445756	5	151539	"Jasulaitytė Giedrė"	0	2016-05-26 12:04:01.000	NULL	2016-05-31 11:40:05.000	NULL	N	"giedre.jasulaityte@vv.lt"	NULL
 1020445757	5	151540	"Danguolė Urbonavičienė"	0	2016-05-26 12:04:57.383	NULL	2016-05-26 12:04:57.383	NULL	N	"danguole.urbonaviciene@nvsc.lt"	NULL
 1020445758	5	151541	"Lina Steponavičienė"	0	2016-05-26 12:10:58.080	NULL	2016-05-26 12:10:58.080	NULL	N	"lina.steponaviciene@nvsc.lt"	NULL
 1020445759	5	151542	"Dainius Valiauga"	0	2016-05-26 12:19:32.950	NULL	2016-05-26 12:19:32.950	NULL	N	"dainius.valiauga@nvsc.lt"	NULL
@@ -12511,3 +12511,7 @@
 1020446234	5	151605	"Jelena Valentukevičienė"	0	2016-05-31 09:56:18.057	NULL	2016-05-31 09:56:18.057	NULL	N	"Jelena.Valentukeviciene@vpt.lt"	NULL
 1020446235	5	151606	"Jurgita Valeikienė"	0	2016-05-31 09:59:02.683	NULL	2016-05-31 09:59:02.683	NULL	N	"Jurgita.Valeikiene@vpt.lt"	NULL
 1020446236	5	151607	"Ignas Bendikas"	0	2016-05-31 10:14:47.277	NULL	2016-05-31 10:14:47.277	NULL	N	"ignas.bendikas@kalnieciupoliklinika.lt"	NULL
+1020446237	5	151608	"Jusitinas Gargasas"	0	2016-05-31 10:53:59.723	NULL	2016-05-31 10:53:59.723	NULL	N	"justinas.gargasas@vgtu.lt"	NULL
+1020446238	5	151609	"Daiva Meilutė"	0	2016-05-31 11:21:56.950	NULL	2016-05-31 11:21:56.950	NULL	N	"daiva.meilute@finmin.lt"	NULL
+1020446239	5	151610	"Martynas Repečka"	0	2016-05-31 11:27:07.340	NULL	2016-05-31 11:27:07.340	NULL	N	"martynas.repecka@vv.lt"	NULL
+1020446240	5	151611	"Birutė Zurlienė"	0	2016-05-31 11:36:54.897	NULL	2016-05-31 11:36:54.897	NULL	N	"birute.zurliene@socmin.lt"	NULL
