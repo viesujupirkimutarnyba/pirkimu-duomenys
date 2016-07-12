@@ -329,7 +329,7 @@
 1020434054	5	148864	"Želnienė Daiva"	0	2015-11-16 09:48:44.000	NULL	2015-11-16 16:58:20.000	NULL	N	"darzelis.rugelis@gmail.com"	NULL
 1020434055	5	148865	"Lidžiūtė Rita"	0	2015-11-16 09:51:24.000	NULL	2015-11-16 16:59:10.000	NULL	N	"regina.sokolova@mazeikiuligonine.lt"	NULL
 1020434056	5	148866	"Eigirdas Arūnas"	0	2015-11-16 09:52:31.000	NULL	2015-11-16 16:59:52.000	NULL	N	"A.Eigirdas@vmi.lt"	NULL
-1020434057	5	148867	"Trinkūnaitė-Getautė Kristina"	0	2015-11-16 10:45:37.000	NULL	2015-11-16 17:00:42.000	NULL	N	"kristina.trinkunaite@vgtu.lt"	NULL
+1020434057	5	148867	"Kristina Trinkūnaitė-Getautė"	0	2015-11-16 10:45:37.000	NULL	2015-11-16 17:00:42.000	NULL	N	"kristina.trinkunaite@vgtu.lt"	NULL
 1020434058	5	148868	"Murnikovas Vladimiras"	0	2015-11-16 13:22:05.000	NULL	2015-11-16 17:01:34.000	NULL	N	"vladimiras.murnikovas@mil.lt"	NULL
 1020434059	5	148869	"Paulius Šarakojis"	0	2015-11-16 13:50:24.000	NULL	2015-11-16 17:02:20.000	NULL	N	"paulius.sarakojis@arsa.lt"	NULL
 1020434060	5	148870	"Kvedarauskaitė Paulina"	0	2015-11-16 15:29:15.000	NULL	2015-11-16 17:03:09.000	NULL	N	"paulina.kvedarauskaite@kaunoklinikos.lt"	NULL
@@ -684,7 +684,7 @@
 1020434409	5	148971	"Pakeltienė Larisa "	0	2015-11-24 14:30:36.000	NULL	2015-11-25 08:42:55.000	NULL	N	"Larisa.Pakeltiene@mil.lt"	NULL
 1020434410	5	148972	"Arlauskienė Virginija"	0	2015-11-24 14:34:07.000	NULL	2015-11-25 08:44:08.000	NULL	N	"Virginija.Arlauskiene@mil.lt"	NULL
 1020434411	5	148973	"Perminas Raimondas"	0	2015-11-24 15:34:50.000	NULL	2015-11-25 08:45:23.000	NULL	N	"raimondas.perminas@lrmuitine.lt"	NULL
-1020434412	5	148974	"Mituzaitė  Inga"	0	2015-11-24 00:00:00.000	NULL	2015-11-25 08:45:57.000	NULL	N	"inga.mituzaite@siauliai.lt"	NULL
+1020434412	5	148974	"Inga Mituzaitė"	0	2015-11-24 00:00:00.000	NULL	2015-11-25 08:45:57.000	NULL	N	"inga.mituzaite@siauliai.lt"	NULL
 1020434413	5	148975	"Venclovienė  Ana"	0	2015-11-24 00:00:00.000	NULL	2015-11-24 16:33:40.000	NULL	N	"vencloviene@mab.lt"	NULL
 1020434414	1	304141453	"IĮ ""Gražnolita"""	0	2015-11-23 00:00:00.000	NULL	2015-11-24 23:30:00.000	0	N	NULL	NULL
 1020434415	1	304140885	"Skuodo Martyno Liuterio bažnyčia"	0	2015-11-23 00:00:00.000	NULL	2015-11-24 23:30:00.000	0	N	NULL	NULL
@@ -5991,7 +5991,7 @@
 1020439715	5	150267	"Šileika Atūnas"	0	2016-03-01 09:48:46.000	NULL	2016-03-04 09:57:27.000	NULL	N	"arunas.sileika@zum.lt"	NULL
 1020439716	5	150268	"Asta Sedlauskienė"	0	2016-03-01 09:50:51.000	NULL	2016-03-04 09:57:57.000	NULL	N	"a.sedlauskiene@oil.lt"	NULL
 1020439717	5	150269	"Sungailaitė Ieva"	0	2016-03-01 09:52:43.000	NULL	2016-03-04 09:58:26.000	NULL	N	"i.sungailaite@oil.lt"	NULL
-1020439718	5	150270	"Keršulienė Giedrė"	0	2016-03-01 10:14:56.000	NULL	2016-03-01 11:15:45.000	NULL	N	"giedre.kersuliene@sodra.lt"	NULL
+1020439718	5	150270	"Giedrė Keršulienė"	0	2016-03-01 10:14:56.000	NULL	2016-03-01 11:15:45.000	NULL	N	"giedre.kersuliene@sodra.lt"	NULL
 1020439719	5	150271	"Jonušienė Raminta"	0	2016-03-01 10:50:21.000	NULL	2016-03-04 09:58:47.000	NULL	N	"ramintajonusiene@gmail.com"	NULL
 1020439720	5	150272	"Kežytė Genovaitė"	0	2016-03-01 11:07:37.000	NULL	2016-03-04 10:00:34.000	NULL	N	"genovaite.kezyte@itc.smm.lt"	NULL
 1020439721	5	150273	"Stankus Marius "	0	2016-03-01 13:17:25.000	NULL	2016-03-01 15:03:05.000	NULL	N	"marius.stankus@le.lt"	NULL
@@ -7307,7 +7307,7 @@
 1020441031	5	150554	"Janulienė Alma"	0	2016-03-21 11:48:55.000	NULL	2016-03-21 15:22:56.000	NULL	N	"seduvosgloba@gmail.com"	NULL
 1020441032	5	150555	"Intė Odeta"	0	2016-03-21 11:54:49.000	NULL	2016-03-21 15:24:13.000	NULL	N	"odeta.inte@gelbvaik.lt"	NULL
 1020441033	5	150556	"Tamašauskas Arimantas"	0	2016-03-21 13:31:20.000	NULL	2016-03-21 15:24:30.000	NULL	N	"arimantas.tamasauskas@kaunoklinikos.lt"	NULL
-1020441034	5	150557	"Kaupas Rytis Stasys"	0	2016-03-21 13:34:01.000	NULL	2016-03-21 15:24:49.000	NULL	N	"rytisstasys.kaupas@kaunoklinikos.lt"	NULL
+1020441034	5	150557	"Rytis Stasys Kaupas"	0	2016-03-21 13:34:01.000	NULL	2016-03-21 15:24:49.000	NULL	N	"rytisstasys.kaupas@kaunoklinikos.lt"	NULL
 1020441035	5	150558	"Gailiušas Vytautas"	0	2016-03-21 14:18:12.000	NULL	2016-03-21 15:25:27.000	NULL	N	"childhouse.project@gmail.com"	NULL
 1020441036	5	150559	"Kniežienė Jurgita"	0	2016-03-21 14:22:26.000	NULL	2016-03-21 15:25:59.000	NULL	N	"jurgita@pmrc.lt"	NULL
 1020441037	5	150560	"Eugenijus Simutis"	0	2016-03-21 14:29:14.000	NULL	2016-03-21 15:26:27.000	NULL	N	"info@pmrc.lt"	NULL
@@ -15183,3 +15183,32 @@
 1020448905	1	304019937	"UAB ""GREEN WOOD LT"""	0	2016-07-08 00:00:00.000	NULL	2016-07-09 23:30:00.000	0	N	NULL	NULL
 1020448906	1	303130678	"Alaus, sidro ir nealkoholinių gėrimų importuotojų asociacija"	0	2016-07-08 00:00:00.000	NULL	2016-07-09 23:30:00.000	0	N	NULL	NULL
 1020448907	1	304020195	"UAB Automobilių priežiūros centras"	0	2016-07-08 00:00:00.000	NULL	2016-07-09 23:30:00.000	0	N	NULL	NULL
+1020448908	1	302940736	"MB ""Manto žuvys"""	0	2016-07-09 00:00:00.000	NULL	2016-07-10 23:30:00.000	0	N	NULL	NULL
+1020448909	1	304026351	"Ežero savininkų bendrija ""Salinis"""	0	2016-07-09 00:00:00.000	NULL	2016-07-10 23:30:00.000	0	N	NULL	NULL
+1020448910	5	152263	"Laima Kvedarienė"	0	2016-07-11 08:09:29.510	NULL	2016-07-11 08:09:29.510	NULL	N	"vmokykla@gmail.com"	NULL
+1020448911	5	152264	"Asta Andriušaitytė"	0	2016-07-11 08:37:44.843	NULL	2016-07-11 08:37:44.843	NULL	N	"asta.andriusaityte@nma.lt"	NULL
+1020448912	5	152265	"Linas Vinciūnas"	0	2016-07-11 08:59:03.570	NULL	2016-07-11 08:59:03.570	NULL	N	"linas.vinciunas@litgrid.eu"	NULL
+1020448913	5	152266	"Virginija Rupainienė"	0	2016-07-11 09:24:37.303	NULL	2016-07-11 09:24:37.303	NULL	N	"panemun@panemune.kaunas.lm.lt"	NULL
+1020448914	5	152267	"Eimantas Salatka"	0	2016-07-11 09:35:40.443	NULL	2016-07-11 09:35:40.443	NULL	N	"eimantas.salatka@mazeikiai.lt"	NULL
+1020448915	5	152268	"Robertas Stulginskas"	0	2016-07-11 09:43:27.740	NULL	2016-07-11 09:43:27.740	NULL	N	"robertas.stulginskas@mazeikiai.lt"	NULL
+1020448916	5	152269	"Elvita Medekšienė"	0	2016-07-11 10:22:28.580	NULL	2016-07-11 10:22:28.580	NULL	N	"elvita.medeksiene@sipa.lt"	NULL
+1020448917	5	152270	"Laura Rudžiūtė"	0	2016-07-11 10:30:33.247	NULL	2016-07-11 10:30:33.247	NULL	N	"L.Rudziute@lvpa.lt"	NULL
+1020448918	5	152271	"Vytautas Grabauskas"	0	2016-07-11 11:15:08.180	NULL	2016-07-11 11:15:08.180	NULL	N	"info@kcromuva.lt"	NULL
+1020448919	5	152272	"Tikrintojas APVA’I "	0	2016-07-11 11:30:22.180	NULL	2016-07-11 11:30:22.180	NULL	N	"monika.markuniene@apva.lt"	NULL
+1020448920	5	152273	"Vygantas Dubauskas"	0	2016-07-11 11:41:50.670	NULL	2016-07-11 11:41:50.670	NULL	N	"i.karoseviciute@silainiupoliklinika.lt"	NULL
+1020448921	5	152274	"Danutė Tunkūnienė"	0	2016-07-11 11:46:55.053	NULL	2016-07-11 11:46:55.053	NULL	N	"troskunulig@gmail.com"	NULL
+1020448922	5	152275	"Maluška Giedrius"	0	2016-07-11 00:00:00.000	NULL	2016-07-11 13:24:45.000	NULL	N	"giedrius.maluska@antakpol.lt"	NULL
+1020448923	5	152276	"Gintaras Mažintas"	0	2016-07-11 13:52:26.497	NULL	2016-07-11 13:52:26.497	NULL	N	"gintaras.mazintas@policija.lt"	NULL
+1020448924	5	152277	"Mindaugas  Puskunigis"	0	2016-07-11 13:54:41.430	NULL	2016-07-11 13:54:41.430	NULL	N	"mindaugas.puskunigis@policija.lt"	NULL
+1020448925	5	152278	"Darius Vėževičius"	0	2016-07-11 14:00:06.283	NULL	2016-07-11 14:00:06.283	NULL	N	"darius.vezevicius@policija.lt"	NULL
+1020448926	5	152279	"Vida Statauskienė"	0	2016-07-11 14:05:25.993	NULL	2016-07-11 14:05:25.993	NULL	N	"v.statauskiene@kraujodonoryste.lt"	NULL
+1020448927	5	152280	"Saulius Vainauskas"	0	2016-07-11 14:35:45.490	NULL	2016-07-11 14:35:45.490	NULL	N	"saulius.vainauskas@mil.lt"	NULL
+1020448928	5	152281	"Mindaugas Saldukas"	0	2016-07-11 14:37:38.420	NULL	2016-07-11 14:37:38.420	NULL	N	"mindaugas.saldukas@mil.lt"	NULL
+1020448929	5	152282	"Linas Kanapienis"	0	2016-07-11 14:37:48.403	NULL	2016-07-11 14:37:48.403	NULL	N	"vilniaus.bustas@vmb.lt"	NULL
+1020448930	5	152283	"Andrius Amelynas"	0	2016-07-11 14:42:24.893	NULL	2016-07-11 14:42:24.893	NULL	N	"andrius.amelynas@mil.lt"	NULL
+1020448931	5	152284	"Tomas Sagatavičius"	0	2016-07-11 15:26:33.987	NULL	2016-07-11 15:26:33.987	NULL	N	"tomas.sagatavicius@sumin.lt"	NULL
+1020448932	5	152285	"Julita Lopatienė"	0	2016-07-11 15:48:13.487	NULL	2016-07-11 15:48:13.487	NULL	N	"j.lopatiene@ukmerge.lt"	NULL
+1020448933	5	152286	"Birutė  Verbickienė"	0	2016-07-11 16:05:07.617	NULL	2016-07-11 16:05:07.617	NULL	N	"birute.verbickiene@apva.lt"	NULL
+1020448934	5	152287	"Svetlana Veikšrienė"	0	2016-07-11 16:19:48.747	NULL	2016-07-11 16:19:48.747	NULL	N	"informacija@zarasai.lt"	NULL
+1020448935	5	152288	"Lina Uturytė"	0	2016-07-11 16:50:16.680	NULL	2016-07-11 16:50:16.680	NULL	N	"l.uturyte@lduk.lt"	NULL
+1020448936	5	152289	"Stankus Arvydas"	0	2016-07-11 16:55:17.000	NULL	2016-07-11 16:56:16.000	NULL	N	"stankus.arvydas@gmail.com"	NULL
