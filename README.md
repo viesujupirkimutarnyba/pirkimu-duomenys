@@ -1,3 +1,3 @@
-# Pirkimų duomenys
+# Dėmesio! Ši informacija nebeaktuali
 
-Automatiškai atnaujinami!
+Duomenys perkelti į atvirų duomenų portalą: http://opendata.lt/dataset/viesieji-pirkimai
